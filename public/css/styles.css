@@ -1,0 +1,41 @@
+body {
+    padding-top: 50px;
+}
+.content {
+    padding: 40px 15px;
+}
+
+
+.form-signin, .form-signup {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+/** Sign In Form */
+.form-signin .form-control {
+    margin-bottom: 10px;
+}
+
+/** Sign Up Form */
+.form-signup .form-control {
+    margin-bottom: 10px;
+}
+
+/** Post form */
+.form-post {
+    max-width: 600px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-post .form-control {
+    margin-bottom: 20px;
+}
+/** Comment Form */
+.form-comment {
+    max-width: 400px;
+}
+.form-comment .form-control {
+    margin-bottom: 10px;
+}
